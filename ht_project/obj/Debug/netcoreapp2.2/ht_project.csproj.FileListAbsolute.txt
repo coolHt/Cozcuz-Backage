@@ -1,0 +1,14 @@
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/bin/Debug/netcoreapp2.2/ht_project.deps.json
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/bin/Debug/netcoreapp2.2/ht_project.runtimeconfig.json
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/bin/Debug/netcoreapp2.2/ht_project.runtimeconfig.dev.json
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/bin/Debug/netcoreapp2.2/ht_project.dll
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/bin/Debug/netcoreapp2.2/ht_project.pdb
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/obj/Debug/netcoreapp2.2/ht_project.csprojAssemblyReference.cache
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/obj/Debug/netcoreapp2.2/ht_project.csproj.CoreCompileInputs.cache
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/obj/Debug/netcoreapp2.2/ht_project.RazorAssemblyInfo.cache
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/obj/Debug/netcoreapp2.2/ht_project.RazorAssemblyInfo.cs
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/obj/Debug/netcoreapp2.2/ht_project.AssemblyInfoInputs.cache
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/obj/Debug/netcoreapp2.2/ht_project.AssemblyInfo.cs
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/obj/Debug/netcoreapp2.2/ht_project.RazorTargetAssemblyInfo.cache
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/obj/Debug/netcoreapp2.2/ht_project.dll
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/ht_project/obj/Debug/netcoreapp2.2/ht_project.pdb
