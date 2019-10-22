@@ -1,0 +1,11 @@
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/bin/Debug/netcoreapp2.2/Cozcuz-Backage.deps.json
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/bin/Debug/netcoreapp2.2/Cozcuz-Backage.runtimeconfig.json
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/bin/Debug/netcoreapp2.2/Cozcuz-Backage.runtimeconfig.dev.json
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/bin/Debug/netcoreapp2.2/Cozcuz-Backage.dll
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/bin/Debug/netcoreapp2.2/Cozcuz-Backage.pdb
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/obj/Debug/netcoreapp2.2/Cozcuz-Backage.csprojAssemblyReference.cache
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/obj/Debug/netcoreapp2.2/Cozcuz-Backage.csproj.CoreCompileInputs.cache
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/obj/Debug/netcoreapp2.2/Cozcuz-Backage.AssemblyInfoInputs.cache
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/obj/Debug/netcoreapp2.2/Cozcuz-Backage.AssemblyInfo.cs
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/obj/Debug/netcoreapp2.2/Cozcuz-Backage.dll
+/Users/handsomeboy/mampFiles/github/Cozcuz-Backage/obj/Debug/netcoreapp2.2/Cozcuz-Backage.pdb
