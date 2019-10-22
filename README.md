@@ -1,2 +1,2 @@
 # Cozcuz-Backage
-I have no idea what shoud i to set up.
+I have no idea what should i to set up.
