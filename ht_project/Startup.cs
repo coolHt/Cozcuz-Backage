@@ -49,7 +49,7 @@ namespace ht_project
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();  
+            //app.UseHttpsRedirection(); 
             app.UseMvc();
         }
     }
