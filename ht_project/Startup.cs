@@ -27,8 +27,9 @@ namespace ht_project
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services) //执行于Configure之前, 用于配置应用的服务 
     {  //IServiceCollection 拥有add{Service}扩展方法 来新增服务
-          services.AddDbContext<TodoContext>(opt =>  //这里添加一个服务，这个服务是属于DbContext的，而且是TodoContext的实例
-                opt.UseInMemoryDatabase("TodoList"));  
+          //配置mysql数据库连接
+          services.AddDbContext<MemberDBContext>(opt =>  //这里添加一个服务，这个服务是属于DbContext的，而且是TodoContext的实例
+                opt.UseMySQL(Configuration.GetConnectionString("DefaultConnection")));// 这里小括号中的内容就是appsettings.josn中数据库连接的配置
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
