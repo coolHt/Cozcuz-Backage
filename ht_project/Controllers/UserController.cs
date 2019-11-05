@@ -7,16 +7,9 @@ namespace ht_project.Controllers {
   [ApiController]
   public class UserController : ControllerBase //请求路径api/user
   {
-    private readonly User _context;
-    //构造函数赋model
-    public UserController (User context) { //
-      _context = context;
-    }
-
     [HttpPost]
-    public ActionResult<IEnumerable<string>> Get () {
-      //Console.Write (_context);
-      return new string[] { "value1", "value2" };
+    public string Post(UserTemp m){ //post方式请求
+      return "value";
     }
   }
 }
