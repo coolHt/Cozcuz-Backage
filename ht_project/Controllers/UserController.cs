@@ -15,7 +15,7 @@ namespace ht_project.Controllers {
 
     public UserController(MemberDBContext memberDBContext)
     {
-      _memberDBContext = memberDBContext;
+      _memberDBContext = memberDBContext;  //自定义的继承自DbContext类的memberDBContext
     }
 
     [HttpPost]
