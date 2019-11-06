@@ -7,7 +7,7 @@
   <title>Document</title>
 </head>
 <body>
-  test
+  <div id="dataContainer"></div>
 </body>
 <script src="./jquery-1.11.0.min.js"></script>
 <script>
@@ -17,11 +17,24 @@
     };
   $.ajax({
       url: "http://127.0.0.1:8025/api/user",
-      type: "post",
-      dataType: "json",
-      contentType:"application/json",
-      data: JSON.stringify(a),
-      success: function (res) {}
+      type: "get",
+      //dataType: "json",
+      //contentType:"application/json",
+      //data: JSON.stringify(a),
+      success: function (res) {
+        let datas = JSON.parse(res);
+        if(datas.status === 'ok'){
+          const  lists = datas.msg;
+          if( lists.length > 0){
+            let box = document.getElementById("dataContainer");
+            lists.forEach(function(l){
+              let list = document.createElement("div");
+              list.innerHTML = `<span>姓名: ${l.name}</span><span>邮箱: ${l.email}</span>`;
+              box.appendChild(list);
+            })
+          }
+        }
+      }
   });
 </script>
 </html>
