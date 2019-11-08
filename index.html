@@ -16,12 +16,13 @@
       'Pwd': 'huangtian2812'
     };
   $.ajax({
-      url: "http://127.0.0.1:8025/api/user",
+      url: "http://122.51.1.235:5001/api/user",
       type: "get",
       //dataType: "json",
       //contentType:"application/json",
       //data: JSON.stringify(a),
       success: function (res) {
+        console.lgo(1111);
         let datas = JSON.parse(res);
         if(datas.status === 'ok'){
           const  lists = datas.msg;
