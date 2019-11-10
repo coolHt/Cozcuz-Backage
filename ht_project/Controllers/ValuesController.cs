@@ -12,9 +12,13 @@ namespace ht_project.Controllers
     {
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        // public ActionResult<IEnumerable<string>> Get()
+        // {
+        //     return new string[] { "value1", "value2" };
+        // }
+        public string Get()
         {
-            return new string[] { "value1", "value2" };
+            return "get pipe";
         }
 
         // GET api/values/5
